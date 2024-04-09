@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/fascom/static/css/main.03ccc9ff.css",
+    "main.js": "/fascom/static/js/main.2955da1f.js",
+    "static/js/453.0e0bc7e6.chunk.js": "/fascom/static/js/453.0e0bc7e6.chunk.js",
+    "static/media/OpenSans-Bold.ttf": "/fascom/static/media/OpenSans-Bold.c790f99966352c531503.ttf",
+    "static/media/OpenSans-Regular.ttf": "/fascom/static/media/OpenSans-Regular.b8cc747a58ffa52b7ff9.ttf",
+    "static/media/OpenSans-SemiBold.ttf": "/fascom/static/media/OpenSans-SemiBold.c7ab78a511011d4e147e.ttf",
+    "static/media/Heebo-ExtraBold.ttf": "/fascom/static/media/Heebo-ExtraBold.52e60a026c110bd2065a.ttf",
+    "static/media/Heebo-Bold.ttf": "/fascom/static/media/Heebo-Bold.234058e06b34bc0c4656.ttf",
+    "static/media/Heebo-Regular.ttf": "/fascom/static/media/Heebo-Regular.2f340fb1f89682582e66.ttf",
+    "index.html": "/fascom/index.html",
+    "main.03ccc9ff.css.map": "/fascom/static/css/main.03ccc9ff.css.map",
+    "main.2955da1f.js.map": "/fascom/static/js/main.2955da1f.js.map",
+    "453.0e0bc7e6.chunk.js.map": "/fascom/static/js/453.0e0bc7e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03ccc9ff.css",
+    "static/js/main.2955da1f.js"
+  ]
+}
