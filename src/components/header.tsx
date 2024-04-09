@@ -6,7 +6,7 @@ class Header extends Component {
             //Responsive header. Icon resizes depending on screen size
             <header className="w-full bg-fascom-black">
                 <div className='w-full py-2 md:py-5 bg-fascom-black'>
-                    <img className='w-28 md:w-56 m-auto' src="./img/fascom.svg"></img>
+                    <img className='w-28 md:w-56 m-auto' src={window.location.origin + "/img/fascom.svg"}></img>
                 </div>
             </header>
         );
