@@ -2,6 +2,7 @@
 import './index.css';
 import Header from './components/header.tsx';
 import Table from './components/table/table.tsx';
+import Footer from './components/footer.tsx'
 
 function App() {
   return (
@@ -17,7 +18,7 @@ function App() {
         <Table></Table>
         
       </main>
-
+      <Footer></Footer>
     </div>
   );
 }
