@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Fascom-Table/static/css/main.b2a0e04a.css",
-    "main.js": "/Fascom-Table/static/js/main.c3eb52b1.js",
+    "main.css": "/Fascom-Table/static/css/main.91c8ff79.css",
+    "main.js": "/Fascom-Table/static/js/main.fa8d56bd.js",
     "static/js/453.0e0bc7e6.chunk.js": "/Fascom-Table/static/js/453.0e0bc7e6.chunk.js",
     "static/media/OpenSans-Bold.ttf": "/Fascom-Table/static/media/OpenSans-Bold.c790f99966352c531503.ttf",
     "static/media/OpenSans-Regular.ttf": "/Fascom-Table/static/media/OpenSans-Regular.b8cc747a58ffa52b7ff9.ttf",
@@ -10,12 +10,12 @@
     "static/media/Heebo-Bold.ttf": "/Fascom-Table/static/media/Heebo-Bold.234058e06b34bc0c4656.ttf",
     "static/media/Heebo-Regular.ttf": "/Fascom-Table/static/media/Heebo-Regular.2f340fb1f89682582e66.ttf",
     "index.html": "/Fascom-Table/index.html",
-    "main.b2a0e04a.css.map": "/Fascom-Table/static/css/main.b2a0e04a.css.map",
-    "main.c3eb52b1.js.map": "/Fascom-Table/static/js/main.c3eb52b1.js.map",
+    "main.91c8ff79.css.map": "/Fascom-Table/static/css/main.91c8ff79.css.map",
+    "main.fa8d56bd.js.map": "/Fascom-Table/static/js/main.fa8d56bd.js.map",
     "453.0e0bc7e6.chunk.js.map": "/Fascom-Table/static/js/453.0e0bc7e6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2a0e04a.css",
-    "static/js/main.c3eb52b1.js"
+    "static/css/main.91c8ff79.css",
+    "static/js/main.fa8d56bd.js"
   ]
 }
